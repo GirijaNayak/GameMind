@@ -1,7 +1,0 @@
-match_id,evaluator_a,evaluator_b,winner,first_player,nodes_a,nodes_b,elapsed_ms_a,elapsed_ms_b,depth,seed,budget,budget_value,status,record_schema_version,record_status
-20261011-handcrafted-genetic-0,handcrafted,genetic,a,a,80,60,226.86,170.243,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
-20261011-handcrafted-genetic-1,handcrafted,genetic,b,b,60,80,176.068,228.602,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
-20261011-handcrafted-neural-0,handcrafted,neural,a,a,80,60,224.66,9.054,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
-20261011-handcrafted-neural-1,handcrafted,neural,b,b,80,100,252.203,16.214,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
-20261011-genetic-neural-0,genetic,neural,a,a,80,60,224.412,7.739,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
-20261011-genetic-neural-1,genetic,neural,b,b,80,100,259.058,15.353,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
