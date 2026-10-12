@@ -1,0 +1,91 @@
+record_schema_version,match_id,pair_id,opening_id,opening_moves,evaluator_a,evaluator_b,winner,first_player,moves_a,moves_b,nodes_a,nodes_b,max_nodes_on_move_a,max_nodes_on_move_b,elapsed_ms_a,elapsed_ms_b,max_elapsed_ms_on_move_a,max_elapsed_ms_on_move_b,completed_depth_a,completed_depth_b,seed,budget,budget_value,status
+2,20261027-handcrafted-genetic-0,handcrafted-genetic-20261027-0,4,"[3, 2, 3]",handcrafted,genetic,a,b,11,11,220,220,20,20,1246.075,1168.347,153.742,142.819,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-1,handcrafted-genetic-20261027-0,4,"[3, 2, 3]",handcrafted,genetic,b,a,15,15,300,292,20,20,1180.791,1203.88,108.071,126.089,3,6,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-2,handcrafted-genetic-20261027-1,2,"[2, 3, 4]",handcrafted,genetic,b,b,15,16,300,320,20,20,1246.645,1232.338,128.907,114.49,3,4,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-3,handcrafted-genetic-20261027-1,2,"[2, 3, 4]",handcrafted,genetic,b,a,18,18,351,346,20,20,1727.061,1685.214,141.822,131.617,6,6,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-4,handcrafted-genetic-20261027-2,3,"[3, 3, 2, 4, 2, 5]",handcrafted,genetic,a,a,3,2,60,40,20,20,284.038,164.035,117.852,86.614,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-5,handcrafted-genetic-20261027-2,3,"[3, 3, 2, 4, 2, 5]",handcrafted,genetic,b,b,2,3,40,60,20,20,163.585,250.16,87.214,89.058,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-6,handcrafted-genetic-20261027-3,0,[],handcrafted,genetic,a,a,6,5,120,100,20,20,383.208,310.219,78.24,73.224,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-7,handcrafted-genetic-20261027-3,0,[],handcrafted,genetic,b,b,3,4,60,80,20,20,161.909,223.079,58.842,68.4,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-8,handcrafted-genetic-20261027-4,1,"[3, 2, 3, 4]",handcrafted,genetic,a,a,4,3,80,60,20,20,310.315,245.263,91.011,93.906,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-9,handcrafted-genetic-20261027-4,1,"[3, 2, 3, 4]",handcrafted,genetic,b,b,7,8,140,160,20,20,576.934,748.167,98.671,115.229,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-10,handcrafted-genetic-20261027-5,4,"[3, 2, 3]",handcrafted,genetic,a,b,11,11,220,220,20,20,1232.528,1155.267,155.173,139.89,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-11,handcrafted-genetic-20261027-5,4,"[3, 2, 3]",handcrafted,genetic,b,a,15,15,300,292,20,20,1156.178,1138.772,109.959,105.875,3,6,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-12,handcrafted-genetic-20261027-6,2,"[2, 3, 4]",handcrafted,genetic,b,b,15,16,300,320,20,20,1245.534,1237.213,128.588,112.661,3,4,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-13,handcrafted-genetic-20261027-6,2,"[2, 3, 4]",handcrafted,genetic,b,a,18,18,351,346,20,20,1704.243,1652.207,133.542,130.338,6,6,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-14,handcrafted-genetic-20261027-7,3,"[3, 3, 2, 4, 2, 5]",handcrafted,genetic,a,a,3,2,60,40,20,20,246.334,165.41,89.236,88.12,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-15,handcrafted-genetic-20261027-7,3,"[3, 3, 2, 4, 2, 5]",handcrafted,genetic,b,b,2,3,40,60,20,20,162.256,241.412,86.597,87.993,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-16,handcrafted-genetic-20261027-8,0,[],handcrafted,genetic,a,a,6,5,120,100,20,20,384.929,308.465,78.94,73.573,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-17,handcrafted-genetic-20261027-8,0,[],handcrafted,genetic,b,b,3,4,60,80,20,20,162.968,218.654,59.348,65.661,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-18,handcrafted-genetic-20261027-9,1,"[3, 2, 3, 4]",handcrafted,genetic,a,a,4,3,80,60,20,20,301.368,239.899,85.723,91.857,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-19,handcrafted-genetic-20261027-9,1,"[3, 2, 3, 4]",handcrafted,genetic,b,b,7,8,140,160,20,20,558.494,735.129,95.361,113.507,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-20,handcrafted-genetic-20261027-10,4,"[3, 2, 3]",handcrafted,genetic,a,b,11,11,220,220,20,20,1249.924,1169.018,157.461,142.372,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-21,handcrafted-genetic-20261027-10,4,"[3, 2, 3]",handcrafted,genetic,b,a,15,15,300,292,20,20,1186.958,1222.811,115.162,125.878,3,6,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-22,handcrafted-genetic-20261027-11,2,"[2, 3, 4]",handcrafted,genetic,b,b,15,16,300,320,20,20,1287.209,1268.516,136.146,120.409,3,4,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-23,handcrafted-genetic-20261027-11,2,"[2, 3, 4]",handcrafted,genetic,b,a,18,18,351,346,20,20,1769.763,1701.159,139.325,131.924,6,6,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-24,handcrafted-genetic-20261027-12,3,"[3, 3, 2, 4, 2, 5]",handcrafted,genetic,a,a,3,2,60,40,20,20,251.79,170.73,93.883,90.06,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-25,handcrafted-genetic-20261027-12,3,"[3, 3, 2, 4, 2, 5]",handcrafted,genetic,b,b,2,3,40,60,20,20,171.084,266.655,93.441,97.017,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-26,handcrafted-genetic-20261027-13,0,[],handcrafted,genetic,a,a,6,5,120,100,20,20,409.073,328.124,84.066,78.561,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-27,handcrafted-genetic-20261027-13,0,[],handcrafted,genetic,b,b,3,4,60,80,20,20,170.298,232.646,62.914,70.793,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-28,handcrafted-genetic-20261027-14,1,"[3, 2, 3, 4]",handcrafted,genetic,a,a,4,3,80,60,20,20,351.0,314.235,110.445,159.505,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-genetic-29,handcrafted-genetic-20261027-14,1,"[3, 2, 3, 4]",handcrafted,genetic,b,b,7,8,140,160,20,20,634.407,924.035,107.859,187.094,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-0,handcrafted-neural-20261027-0,4,"[3, 2, 3]",handcrafted,neural,a,b,2,2,40,40,20,20,149.218,6.882,78.479,3.769,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-1,handcrafted-neural-20261027-0,4,"[3, 2, 3]",handcrafted,neural,a,a,11,10,220,200,20,20,1144.502,48.124,143.343,6.185,2,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-2,handcrafted-neural-20261027-1,2,"[2, 3, 4]",handcrafted,neural,a,b,6,6,120,120,20,20,539.495,22.603,109.566,4.477,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-3,handcrafted-neural-20261027-1,2,"[2, 3, 4]",handcrafted,neural,a,a,3,2,60,40,20,20,194.439,5.7,70.085,2.929,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-4,handcrafted-neural-20261027-2,3,"[3, 3, 2, 4, 2, 5]",handcrafted,neural,a,a,2,1,40,20,20,20,149.278,3.178,74.976,3.178,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-5,handcrafted-neural-20261027-2,3,"[3, 3, 2, 4, 2, 5]",handcrafted,neural,a,b,5,5,100,100,20,20,501.415,19.431,118.218,4.242,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-6,handcrafted-neural-20261027-3,0,[],handcrafted,neural,a,a,9,8,180,160,20,20,730.755,28.828,110.766,5.177,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-7,handcrafted-neural-20261027-3,0,[],handcrafted,neural,a,b,4,4,80,80,20,20,240.185,10.585,68.406,3.072,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-8,handcrafted-neural-20261027-4,1,"[3, 2, 3, 4]",handcrafted,neural,a,a,5,4,100,80,20,20,410.101,13.599,102.302,3.73,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-9,handcrafted-neural-20261027-4,1,"[3, 2, 3, 4]",handcrafted,neural,a,b,8,8,160,160,20,20,737.546,33.727,116.536,5.682,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-10,handcrafted-neural-20261027-5,4,"[3, 2, 3]",handcrafted,neural,a,b,2,2,40,40,20,20,127.524,5.517,64.539,2.759,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-11,handcrafted-neural-20261027-5,4,"[3, 2, 3]",handcrafted,neural,a,a,11,10,220,200,20,20,998.618,43.332,116.764,5.684,2,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-12,handcrafted-neural-20261027-6,2,"[2, 3, 4]",handcrafted,neural,a,b,6,6,120,120,20,20,527.159,20.609,111.547,4.114,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-13,handcrafted-neural-20261027-6,2,"[2, 3, 4]",handcrafted,neural,a,a,3,2,60,40,20,20,196.161,6.058,71.266,3.076,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-14,handcrafted-neural-20261027-7,3,"[3, 3, 2, 4, 2, 5]",handcrafted,neural,a,a,2,1,40,20,20,20,150.496,3.134,75.752,3.134,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-15,handcrafted-neural-20261027-7,3,"[3, 3, 2, 4, 2, 5]",handcrafted,neural,a,b,5,5,100,100,20,20,549.673,21.403,136.745,5.378,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-16,handcrafted-neural-20261027-8,0,[],handcrafted,neural,a,a,9,8,180,160,20,20,724.695,28.323,108.299,4.922,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-17,handcrafted-neural-20261027-8,0,[],handcrafted,neural,a,b,4,4,80,80,20,20,237.221,10.003,69.188,2.929,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-18,handcrafted-neural-20261027-9,1,"[3, 2, 3, 4]",handcrafted,neural,a,a,5,4,100,80,20,20,409.426,13.765,101.692,3.941,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-19,handcrafted-neural-20261027-9,1,"[3, 2, 3, 4]",handcrafted,neural,a,b,8,8,160,160,20,20,753.758,33.111,119.551,5.452,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-20,handcrafted-neural-20261027-10,4,"[3, 2, 3]",handcrafted,neural,a,b,2,2,40,40,20,20,132.644,5.856,66.638,3.149,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-21,handcrafted-neural-20261027-10,4,"[3, 2, 3]",handcrafted,neural,a,a,11,10,220,200,20,20,1064.687,47.566,142.716,7.923,2,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-22,handcrafted-neural-20261027-11,2,"[2, 3, 4]",handcrafted,neural,a,b,6,6,120,120,20,20,541.951,20.886,112.655,4.131,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-23,handcrafted-neural-20261027-11,2,"[2, 3, 4]",handcrafted,neural,a,a,3,2,60,40,20,20,196.831,5.712,70.93,2.936,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-24,handcrafted-neural-20261027-12,3,"[3, 3, 2, 4, 2, 5]",handcrafted,neural,a,a,2,1,40,20,20,20,155.268,3.311,78.563,3.311,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-25,handcrafted-neural-20261027-12,3,"[3, 3, 2, 4, 2, 5]",handcrafted,neural,a,b,5,5,100,100,20,20,515.251,19.693,120.124,4.544,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-26,handcrafted-neural-20261027-13,0,[],handcrafted,neural,a,a,9,8,180,160,20,20,747.106,28.643,116.449,4.881,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-27,handcrafted-neural-20261027-13,0,[],handcrafted,neural,a,b,4,4,80,80,20,20,249.385,10.735,71.969,3.09,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-28,handcrafted-neural-20261027-14,1,"[3, 2, 3, 4]",handcrafted,neural,a,a,5,4,100,80,20,20,423.049,14.289,103.089,4.016,1,1,20261027,nodes,20,recorded
+2,20261027-handcrafted-neural-29,handcrafted-neural-20261027-14,1,"[3, 2, 3, 4]",handcrafted,neural,a,b,8,8,160,160,20,20,749.982,33.558,115.606,5.52,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-0,genetic-neural-20261027-0,4,"[3, 2, 3]",genetic,neural,a,b,2,2,40,40,20,20,127.116,5.312,64.6,2.799,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-1,genetic-neural-20261027-0,4,"[3, 2, 3]",genetic,neural,a,a,4,3,80,60,20,20,283.476,9.281,78.977,3.405,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-2,genetic-neural-20261027-1,2,"[2, 3, 4]",genetic,neural,a,b,5,5,100,100,20,20,421.784,15.597,101.476,3.684,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-3,genetic-neural-20261027-1,2,"[2, 3, 4]",genetic,neural,a,a,3,2,60,40,20,20,192.486,5.804,68.42,2.985,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-4,genetic-neural-20261027-2,3,"[3, 3, 2, 4, 2, 5]",genetic,neural,a,a,2,1,40,20,20,20,148.811,3.118,74.802,3.118,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-5,genetic-neural-20261027-2,3,"[3, 3, 2, 4, 2, 5]",genetic,neural,a,b,5,5,100,100,20,20,490.259,19.588,113.933,4.494,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-6,genetic-neural-20261027-3,0,[],genetic,neural,a,a,6,5,120,100,20,20,402.187,14.939,87.483,3.522,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-7,genetic-neural-20261027-3,0,[],genetic,neural,a,b,4,4,80,80,20,20,234.097,10.234,68.02,2.978,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-8,genetic-neural-20261027-4,1,"[3, 2, 3, 4]",genetic,neural,a,a,5,4,100,80,20,20,404.939,13.513,98.763,3.714,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-9,genetic-neural-20261027-4,1,"[3, 2, 3, 4]",genetic,neural,a,b,4,4,80,80,20,20,335.317,12.942,93.852,3.526,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-10,genetic-neural-20261027-5,4,"[3, 2, 3]",genetic,neural,a,b,2,2,40,40,20,20,124.79,5.311,63.438,2.82,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-11,genetic-neural-20261027-5,4,"[3, 2, 3]",genetic,neural,a,a,4,3,80,60,20,20,282.049,9.452,78.392,3.421,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-12,genetic-neural-20261027-6,2,"[2, 3, 4]",genetic,neural,a,b,5,5,100,100,20,20,426.254,15.99,104.328,3.733,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-13,genetic-neural-20261027-6,2,"[2, 3, 4]",genetic,neural,a,a,3,2,60,40,20,20,196.268,5.809,70.552,2.992,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-14,genetic-neural-20261027-7,3,"[3, 3, 2, 4, 2, 5]",genetic,neural,a,a,2,1,40,20,20,20,149.521,3.221,76.5,3.221,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-15,genetic-neural-20261027-7,3,"[3, 3, 2, 4, 2, 5]",genetic,neural,a,b,5,5,100,100,20,20,542.828,19.655,150.503,4.329,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-16,genetic-neural-20261027-8,0,[],genetic,neural,a,a,6,5,120,100,20,20,396.055,14.341,87.25,3.374,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-17,genetic-neural-20261027-8,0,[],genetic,neural,a,b,4,4,80,80,20,20,235.066,10.35,67.871,2.969,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-18,genetic-neural-20261027-9,1,"[3, 2, 3, 4]",genetic,neural,a,a,5,4,100,80,20,20,403.8,13.318,98.0,3.747,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-19,genetic-neural-20261027-9,1,"[3, 2, 3, 4]",genetic,neural,a,b,4,4,80,80,20,20,336.436,13.081,94.144,3.673,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-20,genetic-neural-20261027-10,4,"[3, 2, 3]",genetic,neural,a,b,2,2,40,40,20,20,125.976,5.37,64.327,2.772,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-21,genetic-neural-20261027-10,4,"[3, 2, 3]",genetic,neural,a,a,4,3,80,60,20,20,287.324,9.178,80.881,3.378,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-22,genetic-neural-20261027-11,2,"[2, 3, 4]",genetic,neural,a,b,5,5,100,100,20,20,434.227,16.295,107.311,4.08,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-23,genetic-neural-20261027-11,2,"[2, 3, 4]",genetic,neural,a,a,3,2,60,40,20,20,196.274,5.795,70.164,3.017,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-24,genetic-neural-20261027-12,3,"[3, 3, 2, 4, 2, 5]",genetic,neural,a,a,2,1,40,20,20,20,149.15,3.13,74.887,3.13,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-25,genetic-neural-20261027-12,3,"[3, 3, 2, 4, 2, 5]",genetic,neural,a,b,5,5,100,100,20,20,491.347,19.121,114.207,4.379,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-26,genetic-neural-20261027-13,0,[],genetic,neural,a,a,6,5,120,100,20,20,397.072,14.268,86.962,3.451,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-27,genetic-neural-20261027-13,0,[],genetic,neural,a,b,4,4,80,80,20,20,245.672,10.517,72.371,3.35,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-28,genetic-neural-20261027-14,1,"[3, 2, 3, 4]",genetic,neural,a,a,5,4,100,80,20,20,425.462,14.234,100.518,3.918,1,1,20261027,nodes,20,recorded
+2,20261027-genetic-neural-29,genetic-neural-20261027-14,1,"[3, 2, 3, 4]",genetic,neural,a,b,4,4,80,80,20,20,347.715,13.262,97.04,3.637,1,1,20261027,nodes,20,recorded

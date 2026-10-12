@@ -1,0 +1,13 @@
+record_schema_version,match_id,pair_id,opening_id,opening_moves,evaluator_a,evaluator_b,winner,first_player,moves_a,moves_b,nodes_a,nodes_b,max_nodes_on_move_a,max_nodes_on_move_b,elapsed_ms_a,elapsed_ms_b,max_elapsed_ms_on_move_a,max_elapsed_ms_on_move_b,completed_depth_a,completed_depth_b,seed,budget,budget_value,status
+2,20261023-handcrafted-genetic-0,handcrafted-genetic-20261023-0,3,"[3, 3, 2, 4, 2, 5]",handcrafted,genetic,a,a,17,16,1562,1511,100,100,6785.081,6489.49,577.74,608.508,6,6,20261023,nodes,100,recorded
+2,20261023-handcrafted-genetic-1,handcrafted-genetic-20261023-0,3,"[3, 3, 2, 4, 2, 5]",handcrafted,genetic,b,b,15,16,1452,1509,100,100,6237.414,6177.246,585.499,534.868,6,6,20261023,nodes,100,recorded
+2,20261023-handcrafted-genetic-2,handcrafted-genetic-20261023-1,1,"[3, 2, 3, 4]",handcrafted,genetic,a,a,13,12,1288,1200,100,100,5170.81,5111.209,537.897,573.967,6,4,20261023,nodes,100,recorded
+2,20261023-handcrafted-genetic-3,handcrafted-genetic-20261023-1,1,"[3, 2, 3, 4]",handcrafted,genetic,b,b,15,16,1421,1489,100,100,5760.248,5910.329,662.034,605.291,6,6,20261023,nodes,100,recorded
+2,20261023-handcrafted-neural-0,handcrafted-neural-20261023-0,3,"[3, 3, 2, 4, 2, 5]",handcrafted,neural,a,a,15,14,1426,1359,100,100,5947.957,336.908,614.235,30.68,6,6,20261023,nodes,100,recorded
+2,20261023-handcrafted-neural-1,handcrafted-neural-20261023-0,3,"[3, 3, 2, 4, 2, 5]",handcrafted,neural,a,b,12,12,1197,1200,100,100,5756.52,307.855,675.561,32.384,6,3,20261023,nodes,100,recorded
+2,20261023-handcrafted-neural-2,handcrafted-neural-20261023-1,1,"[3, 2, 3, 4]",handcrafted,neural,a,a,8,7,800,700,100,100,3851.659,139.072,670.681,23.31,2,2,20261023,nodes,100,recorded
+2,20261023-handcrafted-neural-3,handcrafted-neural-20261023-1,1,"[3, 2, 3, 4]",handcrafted,neural,draw,b,19,19,1641,1676,100,100,7489.009,455.898,650.961,42.807,6,6,20261023,nodes,100,recorded
+2,20261023-genetic-neural-0,genetic-neural-20261023-0,3,"[3, 3, 2, 4, 2, 5]",genetic,neural,a,a,17,16,1567,1484,100,100,6415.058,393.385,646.714,33.975,6,6,20261023,nodes,100,recorded
+2,20261023-genetic-neural-1,genetic-neural-20261023-0,3,"[3, 3, 2, 4, 2, 5]",genetic,neural,a,b,13,13,1256,1300,100,100,6031.035,328.67,667.022,34.767,6,4,20261023,nodes,100,recorded
+2,20261023-genetic-neural-2,genetic-neural-20261023-1,1,"[3, 2, 3, 4]",genetic,neural,a,a,8,7,800,700,100,100,3220.375,139.152,504.457,24.052,2,2,20261023,nodes,100,recorded
+2,20261023-genetic-neural-3,genetic-neural-20261023-1,1,"[3, 2, 3, 4]",genetic,neural,a,b,15,15,1481,1500,100,100,6486.228,383.595,642.948,33.531,6,4,20261023,nodes,100,recorded
