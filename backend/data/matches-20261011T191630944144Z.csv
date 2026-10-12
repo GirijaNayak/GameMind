@@ -1,7 +1,0 @@
-record_schema_version,match_id,pair_id,opening_id,opening_moves,evaluator_a,evaluator_b,winner,first_player,moves_a,moves_b,nodes_a,nodes_b,max_nodes_on_move_a,max_nodes_on_move_b,elapsed_ms_a,elapsed_ms_b,max_elapsed_ms_on_move_a,max_elapsed_ms_on_move_b,completed_depth_a,completed_depth_b,seed,budget,budget_value,status
-2,20261026-handcrafted-genetic-0,handcrafted-genetic-20261026-0,3,"[3, 3, 2, 4, 2, 5]",handcrafted,genetic,a,a,3,2,60,40,20,20,242.557,159.682,86.094,85.914,1,1,20261026,nodes,20,recorded
-2,20261026-handcrafted-genetic-1,handcrafted-genetic-20261026-0,3,"[3, 3, 2, 4, 2, 5]",handcrafted,genetic,b,b,2,3,40,60,20,20,159.862,238.842,84.034,86.697,1,1,20261026,nodes,20,recorded
-2,20261026-handcrafted-neural-0,handcrafted-neural-20261026-0,3,"[3, 3, 2, 4, 2, 5]",handcrafted,neural,a,a,2,1,40,20,20,20,156.069,4.396,80.653,4.396,1,1,20261026,nodes,20,recorded
-2,20261026-handcrafted-neural-1,handcrafted-neural-20261026-0,3,"[3, 3, 2, 4, 2, 5]",handcrafted,neural,a,b,5,5,100,100,20,20,500.222,19.352,116.907,4.33,1,1,20261026,nodes,20,recorded
-2,20261026-genetic-neural-0,genetic-neural-20261026-0,3,"[3, 3, 2, 4, 2, 5]",genetic,neural,a,a,2,1,40,20,20,20,149.977,3.253,75.541,3.253,1,1,20261026,nodes,20,recorded
-2,20261026-genetic-neural-1,genetic-neural-20261026-0,3,"[3, 3, 2, 4, 2, 5]",genetic,neural,a,b,5,5,100,100,20,20,496.654,19.433,114.955,4.427,1,1,20261026,nodes,20,recorded
