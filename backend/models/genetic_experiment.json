@@ -1,0 +1,119 @@
+{
+  "config": {
+    "generations": 8,
+    "population_size": 20,
+    "seed": 7,
+    "opponents": [
+      "default handcrafted tactical profile",
+      "threat-weighted handcrafted profile"
+    ],
+    "fitness_definition": "one-ply proxy: mean successor heuristic score after the candidate move, using fixed opponent weight profiles and candidate-mover perspective; no opponent reply or game outcome is simulated",
+    "train_position_count": 8,
+    "heldout_opponent_profiles": [
+      "heldout balanced profile"
+    ],
+    "heldout_position_count": 4
+  },
+  "fitness_history": [
+    36.65624999999999,
+    43.5875,
+    43.918749999999996,
+    43.918749999999996,
+    43.918749999999996,
+    43.918749999999996,
+    43.918749999999996,
+    43.918749999999996
+  ],
+  "heldout_proxy_fitness": 15.65,
+  "heldout_tournament": {
+    "opponent": "default handcrafted weights",
+    "heldout_positions": 4,
+    "matches_per_position": 2,
+    "depth": 1,
+    "wins": 5,
+    "draws": 0,
+    "losses": 3,
+    "matches": 8,
+    "results": [
+      {
+        "position_id": 0,
+        "game": 0,
+        "candidate_first": true,
+        "candidate_seat_red": true,
+        "outcome": "win",
+        "candidate_nodes": 35,
+        "baseline_nodes": 28
+      },
+      {
+        "position_id": 0,
+        "game": 1,
+        "candidate_first": false,
+        "candidate_seat_red": false,
+        "outcome": "loss",
+        "candidate_nodes": 28,
+        "baseline_nodes": 35
+      },
+      {
+        "position_id": 1,
+        "game": 0,
+        "candidate_first": false,
+        "candidate_seat_red": true,
+        "outcome": "win",
+        "candidate_nodes": 35,
+        "baseline_nodes": 35
+      },
+      {
+        "position_id": 1,
+        "game": 1,
+        "candidate_first": true,
+        "candidate_seat_red": false,
+        "outcome": "win",
+        "candidate_nodes": 35,
+        "baseline_nodes": 28
+      },
+      {
+        "position_id": 2,
+        "game": 0,
+        "candidate_first": false,
+        "candidate_seat_red": true,
+        "outcome": "win",
+        "candidate_nodes": 7,
+        "baseline_nodes": 7
+      },
+      {
+        "position_id": 2,
+        "game": 1,
+        "candidate_first": true,
+        "candidate_seat_red": false,
+        "outcome": "loss",
+        "candidate_nodes": 7,
+        "baseline_nodes": 7
+      },
+      {
+        "position_id": 3,
+        "game": 0,
+        "candidate_first": false,
+        "candidate_seat_red": true,
+        "outcome": "win",
+        "candidate_nodes": 28,
+        "baseline_nodes": 28
+      },
+      {
+        "position_id": 3,
+        "game": 1,
+        "candidate_first": true,
+        "candidate_seat_red": false,
+        "outcome": "loss",
+        "candidate_nodes": 28,
+        "baseline_nodes": 28
+      }
+    ],
+    "limitation": "Small deterministic set of four held-out reachable states; outcomes measure this search setup and opponent only, not general playing strength."
+  },
+  "artifact_metadata": {
+    "weights_file": "genetic_weights.json",
+    "weights_sha256": "12b3ee435da2334834a138b0a14b7a91cd45a1e9b92a3953412b60caa90069cf",
+    "training_command": "python -m app.training.train_genetic",
+    "note": "Fingerprint added without rerunning or changing the evolved weights."
+  }
+}
