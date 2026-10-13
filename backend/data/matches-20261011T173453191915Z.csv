@@ -1,0 +1,31 @@
+match_id,pair_id,opening_id,opening_moves,evaluator_a,evaluator_b,winner,first_player,moves_a,moves_b,nodes_a,nodes_b,elapsed_ms_a,elapsed_ms_b,completed_depth_a,completed_depth_b,seed,budget,budget_value,status,record_schema_version,record_status
+20261011-handcrafted-genetic-0,handcrafted-genetic-20261011-0,0,[],handcrafted,genetic,a,a,6,5,120,100,384.434,316.165,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-handcrafted-genetic-1,handcrafted-genetic-20261011-0,0,[],handcrafted,genetic,b,b,3,4,60,80,157.897,220.25,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-handcrafted-genetic-2,handcrafted-genetic-20261011-1,1,"[3, 2, 3, 4]",handcrafted,genetic,a,a,4,3,80,60,298.533,244.192,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-handcrafted-genetic-3,handcrafted-genetic-20261011-1,1,"[3, 2, 3, 4]",handcrafted,genetic,b,b,7,8,140,160,553.581,738.838,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-handcrafted-genetic-4,handcrafted-genetic-20261011-2,2,"[2, 3, 4]",handcrafted,genetic,b,b,15,16,300,320,1251.026,1234.725,3,4,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-handcrafted-genetic-5,handcrafted-genetic-20261011-2,2,"[2, 3, 4]",handcrafted,genetic,b,a,18,18,351,346,1686.184,1652.297,6,6,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-handcrafted-genetic-6,handcrafted-genetic-20261011-3,3,"[3, 3, 2, 4, 2, 5]",handcrafted,genetic,a,a,3,2,60,40,234.88,158.336,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-handcrafted-genetic-7,handcrafted-genetic-20261011-3,3,"[3, 3, 2, 4, 2, 5]",handcrafted,genetic,b,b,2,3,40,60,157.06,239.264,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-handcrafted-genetic-8,handcrafted-genetic-20261011-4,4,"[3, 2, 3]",handcrafted,genetic,a,b,11,11,220,220,1233.764,1163.273,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-handcrafted-genetic-9,handcrafted-genetic-20261011-4,4,"[3, 2, 3]",handcrafted,genetic,b,a,15,15,300,292,1166.733,1156.867,3,6,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-handcrafted-neural-0,handcrafted-neural-20261011-0,0,[],handcrafted,neural,a,a,9,8,180,160,715.621,29.965,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-handcrafted-neural-1,handcrafted-neural-20261011-0,0,[],handcrafted,neural,a,b,4,4,80,80,235.667,12.409,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-handcrafted-neural-2,handcrafted-neural-20261011-1,1,"[3, 2, 3, 4]",handcrafted,neural,a,a,5,4,100,80,406.398,14.061,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-handcrafted-neural-3,handcrafted-neural-20261011-1,1,"[3, 2, 3, 4]",handcrafted,neural,a,b,8,8,160,160,726.337,32.902,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-handcrafted-neural-4,handcrafted-neural-20261011-2,2,"[2, 3, 4]",handcrafted,neural,a,b,6,6,120,120,522.75,22.222,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-handcrafted-neural-5,handcrafted-neural-20261011-2,2,"[2, 3, 4]",handcrafted,neural,a,a,3,2,60,40,193.014,6.264,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-handcrafted-neural-6,handcrafted-neural-20261011-3,3,"[3, 3, 2, 4, 2, 5]",handcrafted,neural,a,a,2,1,40,20,148.146,3.26,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-handcrafted-neural-7,handcrafted-neural-20261011-3,3,"[3, 3, 2, 4, 2, 5]",handcrafted,neural,a,b,5,5,100,100,494.25,19.544,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-handcrafted-neural-8,handcrafted-neural-20261011-4,4,"[3, 2, 3]",handcrafted,neural,a,b,2,2,40,40,126.336,5.499,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-handcrafted-neural-9,handcrafted-neural-20261011-4,4,"[3, 2, 3]",handcrafted,neural,a,a,11,10,220,200,996.628,44.382,2,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-genetic-neural-0,genetic-neural-20261011-0,0,[],genetic,neural,a,a,6,5,120,100,399.279,14.829,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-genetic-neural-1,genetic-neural-20261011-0,0,[],genetic,neural,a,b,4,4,80,80,240.8,10.638,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-genetic-neural-2,genetic-neural-20261011-1,1,"[3, 2, 3, 4]",genetic,neural,a,a,5,4,100,80,410.626,14.022,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-genetic-neural-3,genetic-neural-20261011-1,1,"[3, 2, 3, 4]",genetic,neural,a,b,4,4,80,80,346.306,13.65,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-genetic-neural-4,genetic-neural-20261011-2,2,"[2, 3, 4]",genetic,neural,a,b,5,5,100,100,461.821,18.494,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-genetic-neural-5,genetic-neural-20261011-2,2,"[2, 3, 4]",genetic,neural,a,a,3,2,60,40,221.71,6.275,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-genetic-neural-6,genetic-neural-20261011-3,3,"[3, 3, 2, 4, 2, 5]",genetic,neural,a,a,2,1,40,20,166.696,3.24,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-genetic-neural-7,genetic-neural-20261011-3,3,"[3, 3, 2, 4, 2, 5]",genetic,neural,a,b,5,5,100,100,546.454,21.123,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-genetic-neural-8,genetic-neural-20261011-4,4,"[3, 2, 3]",genetic,neural,a,b,2,2,40,40,146.141,6.307,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
+20261011-genetic-neural-9,genetic-neural-20261011-4,4,"[3, 2, 3]",genetic,neural,a,a,4,3,80,60,301.359,10.145,1,1,20261011,nodes,20,recorded,1,legacy_unfingerprinted
